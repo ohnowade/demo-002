@@ -1,5 +1,5 @@
 - write tests
 - write code to pass tests
 - submit my code to Canvas
-
+- finish p2 :(
 
